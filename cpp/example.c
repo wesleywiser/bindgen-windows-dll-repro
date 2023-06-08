@@ -1,0 +1,1 @@
+int SomeVariable = 42;
